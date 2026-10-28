@@ -1,0 +1,42 @@
+{
+  "tripName": "2027 Travel Plans",
+  "traveler": {
+    "name": "Steve Klipsch",
+    "contact": {
+      "email": "klipsch.steve@gmail.com",
+      "phoneNumber": "562-523-7913"
+    }
+  },
+  "destination": [
+    {
+      "location": "New York City",
+      "arrivalDate": "04/05/2027",
+      "departureDate": "04/10/2027",
+      "activities": [
+        {
+          "title": "Statue of Liberty tour",
+          "time": "11:00AM"
+        },
+        {
+          "title": "Broadway Show",
+          "time": "08:00PM"
+        }
+      ]
+    },
+    {
+      "location": "Catalina Island",
+      "arrivalDate": "11/10/2026",
+      "departureDate": "11/15/2026",
+      "activities": [
+        {
+          "title": "parasailing",
+          "time": "09:00AM"
+        },
+        {
+          "title": "Surf Lessons",
+          "time": "01:30PM"
+        }
+      ]
+    }
+  ]
+}
